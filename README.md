@@ -10,9 +10,9 @@ This is a simple Disney+ Hotstar landing page clone built using HTML, CSS, and J
 - Simple HTML/CSS layout
 
 ## Screenshots
-![screenshot](Screenshot(118).png)
-![screenshot](Screenshot(119).png)
-![screenshot](Screenshot(120).png)
+![screenshot](C:\Users\User\Pictures\Screenshots\Screenshot(118).png)
+![screenshot](C:\Users\User\Pictures\Screenshots\Screenshot(119).png)
+![screenshot](C:\Users\User\Pictures\Screenshots\Screenshot(120).png)
 
 ## How to Run Locally
 1. Clone the repo
